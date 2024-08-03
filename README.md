@@ -3,8 +3,6 @@ An guide how to activate Windows 11 Pro for free
 Because you will get some more features like an Bitlocker and host your device as an External Desktop which can be accessed through the internet
 ## Am i also able to switch from any other edition to Pro?
 The answer is yes! You can switch from almost any edition to Pro completely for free!
-## Note for users with unactivated Pro edition
-People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
 ## Getting started
 What you first need to do is open CMD (Command Prompt) as Administrator using this keyboard key:
 
